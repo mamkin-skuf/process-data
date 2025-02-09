@@ -17,6 +17,12 @@ function generateData() {
   logMessage('Generated new random data.');
 }
 
+
+
+
+
+
+
 // Function to read data from a file
 function readData() {
   try {
